@@ -1,0 +1,18 @@
+{
+  "name": "authentication_authorization",
+  "version": "1.0.0",
+  "description": "A simple intro to authentication and authorization",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "keywords": [
+    "Authentication",
+    "Authorization"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
